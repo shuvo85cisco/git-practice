@@ -1,0 +1,4 @@
+VM-Name,Public IP Address,Private IP Address
+dev158,0,192.168.101.158
+www2,202.53.167.145,192.168.101.145
+pointrollftp,202.53.167.155,192.168.101.155

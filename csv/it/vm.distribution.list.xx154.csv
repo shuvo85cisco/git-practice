@@ -1,0 +1,5 @@
+VM-Name,Public IP Address,Private IP Address
+Win,0,192.168.101.135
+servicenginebd.net,202.53.167.137,192.168.101.137
+gitlab,202.53.167.138,192.168.101.138
+devVmWin7,0,192.168.101.157

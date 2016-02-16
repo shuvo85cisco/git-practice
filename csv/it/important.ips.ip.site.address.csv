@@ -1,0 +1,10 @@
+Service or Device Name,IP Address
+Access control (Hosted in xx153),192.168.103.46
+Zenoss,192.168.101.133
+First floor printer,192.168.16.10
+3rd floor printer IP,192.168.16.1
+5th floor printer,192.168.16.6
+First floor DVR machine,192.168.127.241
+Second floor DVR machine,192.168.127.242
+Third floor DVR machine,192.168.127.243
+Fifth floor DVR machine,192.168.127.245
