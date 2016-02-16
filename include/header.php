@@ -43,6 +43,7 @@
         <li><a href="it.schedule.php"> IT Schedule </a></li>
         <li><a href="wifi.php"> Wifi Information </a></li>
         <li><a href="vm.php"> VM Distribution List </a></li>
+        <li><a href="git.php"> Git practice </a></li>
       </ul>
    </div>
 </nav>
